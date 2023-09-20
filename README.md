@@ -14,7 +14,7 @@ comandos: <br>
 npm init -y<br>
 npm install express<br>
 y luego para ejecutar el código es de esta manera:<br>
-node tablasrest.js<b>
+node tablasrest.js<br>
 Nos va a decir en que puerto se esta corriendo pero en caso de ser necesario en las últimas lineas del código de tablasrest.js podemos cambiarle el puerto<br>
 Ahora en postman el cual para instalarlo es <A HREF="https://www.postman.com/downloads/"> aquí </A> el cual también se puede utilizar en el navegador pero por términos de explicarlo será en basé a la aplicación de escritorio.<br>
 En postman ingresaremos el link http://localhost:4000/results/5/5 el cual nos va a regresar el resultado de una suma si este esta en la opción de <b>GET</b>. <br>
